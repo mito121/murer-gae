@@ -1,0 +1,10 @@
+<?php
+get_header();
+?>
+
+<div class="wrapper">
+    <h1>Gåsen gylper gunstigt</h1>
+</div>
+
+<?php
+get_footer();
